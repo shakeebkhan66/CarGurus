@@ -1,0 +1,1 @@
+enum AppEnvironment {dev, demo, production}
